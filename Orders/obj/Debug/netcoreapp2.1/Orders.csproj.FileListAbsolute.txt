@@ -1,0 +1,9 @@
+D:\GIT_REPOS\GraphQLServer\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+D:\GIT_REPOS\GraphQLServer\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+D:\GIT_REPOS\GraphQLServer\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+D:\GIT_REPOS\GraphQLServer\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+D:\GIT_REPOS\GraphQLServer\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+D:\GIT_REPOS\GraphQLServer\Orders\obj\Debug\netcoreapp2.1\Orders.csprojAssemblyReference.cache
+D:\GIT_REPOS\GraphQLServer\Orders\bin\Debug\netcoreapp2.1\Orders.pdb
+D:\GIT_REPOS\GraphQLServer\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+D:\GIT_REPOS\GraphQLServer\Orders\obj\Debug\netcoreapp2.1\Orders.pdb
